@@ -2,7 +2,7 @@
 A flowchart from the NGS assignment 
 created by: Sergio, Luwei and Gitte
 
-![Barbie x pokemon flowchart](https://user-images.githubusercontent.com/127951831/229088680-22c36fa6-1685-4f83-aad4-b80245acbbe5.png)
+![Barbie x pokemon flowchart (1)](https://user-images.githubusercontent.com/127951831/229089557-dcf11604-3abb-4698-931d-dca507a732dd.png)
 
 This flowchart contains the tools we used to analyse the illumina and nanopore data provided for this assesment:
 
