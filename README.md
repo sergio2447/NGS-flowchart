@@ -63,3 +63,4 @@ Genarates a core genome alignment which can be visualized with phandago.
 
 Phandago visualizes the core genome and pan genome with the phylogenetic tree next to it.
 
+for the workflow see: [workflow](https://github.com/sergio2447/NGS-flowchart/blob/main/Galaxy-Workflow-NGS_assignment_final_try.ga)
