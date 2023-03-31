@@ -6,7 +6,7 @@ created by: Sergio, Luwei and Gitte
 
 this flowchart contains the tools we used to analyse the illumina and nanopore data provided for this assesment:
 
-## FastQC
+### FastQC
 
 Fastqc does the quality control of the illumina data and reportst summary statistics including the phred score.
 
